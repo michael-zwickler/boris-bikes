@@ -1,6 +1,6 @@
 # Boris Bikes
 
-Brief description of what the project is
+Boris Bikes is an implementation of a bike sharing system, that allows customer to get a bike out of docking stations in London.
 
 ## Getting started
 
